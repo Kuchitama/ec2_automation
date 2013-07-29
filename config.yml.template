@@ -1,0 +1,11 @@
+access_key_id: # TODO
+secret_access_key: # TODO
+# specify region of aws(exp: 'us-west-1', default: 'us-east-1')
+# region: Oregon
+
+user: # TODO login user
+key: # TODO path to your private key 
+key_pair: # TODO key pair 
+image_id: # ami image_id
+security_group_ids: # Array of secrity group ids. you should define like below
+#  - "sg-000000"
